@@ -5,7 +5,24 @@ The controller allows to manage two motors with their corresponding position sen
 
 <img src="https://github.com/ea3hmj/EME/raw/main/img/controllerdishengine.jpg" width="640">
 
-<img src="https://github.com/ea3hmj/EME/raw/main/img/Dish Controler V4.png" width="640">
+Different hardware versions are available:
+- Version 1.x
+  - 1.0 to 1.3 these versions are obsolete
+  - 1.4 is active is powered at 12V and incorporates a 24V step-up.
+  - 1.5 is active is powered with single voltage (12 or 24V input).
+- Version 2.x
+  - 2.0 incorporates in the new ESP32-S3, limit switches and monitors the current and voltage of the motors. It is in the process of testing.
+  - 2.1 an entry for stow has been added
+- Version 3.x
+  - 3.0 is designed to handle VFD drives for motor control. They incorporate limit switches.
+  - 3.1 an entry for stow has been added
+
+
+
+
+![image](https://github.com/EA3HMJ-Tracking-Software-Suit/ControllerDish/assets/2368602/2dddb04a-a4b3-40a8-a64d-33e5fc928681)
+
+
 
 
 ## Documentation
