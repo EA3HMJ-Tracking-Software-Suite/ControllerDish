@@ -1,10 +1,6 @@
 # ControllerDish
 The controller allows to manage two motors with their corresponding position sensors.
-
-<img src="https://github.com/ea3hmj/EME/raw/main/img/controlledishsetup.jpg" width="640">
-
-<img src="https://github.com/ea3hmj/EME/raw/main/img/controllerdishengine.jpg" width="640">
-
+![image](https://github.com/EA3HMJ-Tracking-Software-Suit/ControllerDish/assets/2368602/f2910c1a-f9e4-44a8-96c6-5d36d8e53105)
 Different hardware versions are available:
 - Version 1.x
   - 1.0 to 1.3 these versions are obsolete
@@ -16,17 +12,25 @@ Different hardware versions are available:
 - Version 3.x
   - 3.0 is designed to handle VFD drives for motor control. They incorporate limit switches.
   - 3.1 an entry for stow has been added
+![image](https://github.com/EA3HMJ-Tracking-Software-Suit/ControllerDish/assets/2368602/49b585de-e610-4bf3-919c-1cef5de5cedc)
 
+![image](https://github.com/EA3HMJ-Tracking-Software-Suit/ControllerDish/assets/2368602/13db4524-f177-49c3-b8c2-e037525d85ba)
 
-
+![image](https://github.com/EA3HMJ-Tracking-Software-Suit/ControllerDish/assets/2368602/962cf09a-86fe-4725-a146-1549264fb762)
 
 ![image](https://github.com/EA3HMJ-Tracking-Software-Suit/ControllerDish/assets/2368602/2dddb04a-a4b3-40a8-a64d-33e5fc928681)
 
-
-
-
 ## Documentation
-For details, please read the document: [Dish Controller v4 ENG.pdf](docs/Dish%20Controller%20v4%20ENG.pdf)
+For details, please read the documents for all versions.
+
+: [Dish Controller v1.2 ENG.pdf](docs/Dish%20Controller%20v2%20ENG.pdf)
+
+: [Dish Controller v1.4 ENG.pdf](docs/Dish%20Controller%20v4%20ENG.pdf)
+
+: [Dish Controller v1.5 ENG.pdf](docs/Dish%20Controller%20v5%20ENG.pdf)
+
+: [Dish Controller v3.0 ENG.pdf](docs/Dish%20Controller%20Hardware%20V3%20V1%20ESP.pdf)
+
 
 ## Disclaimer
 This is a tracking systems designed for amateur use in Moonbounce, Radioastronomy and DSN. It requieres advanced skills of electronics and software, only recommended to users with previous experience with tracking systems.
