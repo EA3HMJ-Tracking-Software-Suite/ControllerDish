@@ -23,13 +23,13 @@ Different hardware versions are available:
 ## Documentation
 For details, please read the documents for all versions.
 
-: [Dish Controller v1.2 ENG.pdf](docs/Dish%20Controller%20v2%20ENG.pdf)
+: [Dish Controller v1.2 ENG.pdf](doc/Dish%20Controller%20v2%20ENG.pdf)
 
-: [Dish Controller v1.4 ENG.pdf](docs/Dish%20Controller%20v4%20ENG.pdf)
+: [Dish Controller v1.4 ENG.pdf](doc/Dish%20Controller%20v4%20ENG.pdf)
 
-: [Dish Controller v1.5 ENG.pdf](docs/Dish%20Controller%20v5%20ENG.pdf)
+: [Dish Controller v1.5 ENG.pdf](doc/Dish%20Controller%20v5%20ENG.pdf)
 
-: [Dish Controller v3.0 ENG.pdf](docs/Dish%20Controller%20Hardware%20V3%20V1%20ESP.pdf)
+: [Dish Controller v3.0 ENG.pdf](doc/Dish%20Controller%20Hardware%20V3%20V1%20ESP.pdf)
 
 
 ## Disclaimer
