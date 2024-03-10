@@ -1,6 +1,6 @@
 # ControllerDish
 The controller allows to manage two motors with their corresponding position sensors.
-![image](https://github.com/EA3HMJ-Tracking-Software-Suit/ControllerDish/assets/2368602/f2910c1a-f9e4-44a8-96c6-5d36d8e53105)
+![image](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/assets/2368602/59209ca7-eb7c-49db-aca0-ce0e430feea9)
 Different hardware versions are available:
 - Version 1.x
   - 1.0 to 1.3 these versions are obsolete
@@ -8,7 +8,8 @@ Different hardware versions are available:
   - 1.5 is active is powered with single voltage (12 or 24V input).
 - Version 2.x
   - 2.0 incorporates in the new ESP32-S3, limit switches and monitors the current and voltage of the motors. It is in the process of testing.
-  - 2.1 an entry for stow has been added
+  - 2.1 an entry for stow has been added.
+  - 2.2 add temp, hum and presure.
 - Version 3.x
   - 3.0 is designed to handle VFD drives for motor control. They incorporate limit switches.
   - 3.1 an entry for stow has been added
@@ -28,6 +29,10 @@ For details, please read the documents for all versions.
 : [Dish Controller v1.4 ENG.pdf](doc/Dish%20Controller%20v4%20ENG.pdf)
 
 : [Dish Controller v1.5 ENG.pdf](doc/Dish%20Controller%20v5%20ENG.pdf)
+
+: [Dish Controller v2.2 ESP.pdf](/Dish%20Controller%20Hardware%20V3%20V1%20ESP.pdf).
+
+: [Dish Controller v2.2 Conexiones ESP.pdf](doc/Conexiones%20hardware%202.2%20V1.0%20ESP.pdf).
 
 : [Dish Controller v3.0 ENG.pdf](doc/Dish%20Controller%20Hardware%20V3%20V1%20ESP.pdf)
 
