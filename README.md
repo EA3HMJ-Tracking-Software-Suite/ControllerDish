@@ -30,7 +30,7 @@ For details, please read the documents for all versions.
 
 : [Dish Controller v1.5 ENG.pdf](doc/Dish%20Controller%20v5%20ENG.pdf)
 
-: [Dish Controller v2.2 ESP.pdf](/Dish%20Controller%20Hardware%20V3%20V1%20ESP.pdf).
+: [Dish Controller v2.2 ESP.pdf](doc/Dish%20Controller%20Hardware%20V3%20V1%20ESP.pdf).
 
 : [Dish Controller v2.2 Conexiones ESP.pdf](doc/Conexiones%20hardware%202.2%20V1.0%20ESP.pdf).
 
