@@ -3,9 +3,9 @@
 #*.tar.gz
 
 # Ignorar directorios específicos
-Firmware/
-doc/
-hardware/
+Firmware/*.*
+doc/*.*
+hardware/*.*
 
 # Ignorar archivos de configuración local (ejemplos)
 #config.ini
