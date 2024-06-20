@@ -5,7 +5,7 @@
 # Ignorar directorios específicos
 Firmware/
 doc/
-hardware
+hardware/
 
 # Ignorar archivos de configuración local (ejemplos)
 #config.ini
