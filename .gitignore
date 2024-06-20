@@ -1,0 +1,11 @@
+# Ignorar archivos generados automáticamente
+#*.zip
+#*.tar.gz
+
+# Ignorar directorios específicos
+Firmware/
+doc/
+hardware
+
+# Ignorar archivos de configuración local (ejemplos)
+#config.ini
