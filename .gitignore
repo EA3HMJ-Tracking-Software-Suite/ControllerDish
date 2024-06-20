@@ -1,5 +1,6 @@
 # Ignorar archivos generados automáticamente
-#*.zip
+*.zip
+*.pdf
 #*.tar.gz
 
 # Ignorar directorios específicos
