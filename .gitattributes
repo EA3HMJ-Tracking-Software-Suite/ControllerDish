@@ -1,0 +1,5 @@
+# Ignorar directorios
+Firmware/  export-ignore
+doc/  export-ignore
+hardware/  export-ignore
+README.md export-ignore
