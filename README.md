@@ -43,7 +43,7 @@ For details, please read the documents for all versions.
 [Versions](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/releases)
 
 ## Download
-[Latest version](https://github.com/EA3HMJ-Tracking-Software-Suite/DriverDish/releases/latest)
+[Latest version](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/releases/latest)
 
 ## Disclaimer
 This is a tracking systems designed for amateur use in Moonbounce, Radioastronomy and DSN. It requieres advanced skills of electronics and software, only recommended to users with previous experience with tracking systems.
