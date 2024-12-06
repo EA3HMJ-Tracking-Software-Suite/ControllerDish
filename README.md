@@ -1,6 +1,9 @@
 # ControllerDish
 The controller allows to manage two motors with their corresponding position sensors.
 ![image](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/assets/2368602/59209ca7-eb7c-49db-aca0-ce0e430feea9)
+
+[Version and download](#Versions)
+
 Different hardware versions are available:
 - Version 1.x
   - 1.0 to 1.3 these versions are obsolete
@@ -36,6 +39,11 @@ For details, please read the documents for all versions.
 
 : [Dish Controller v3.0 ENG.pdf](doc/Dish%20Controller%20Hardware%20V3%20V1%20ESP.pdf)
 
+## Versions
+[Versions](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/releases)
+
+## Download
+[Latest version](https://github.com/EA3HMJ-Tracking-Software-Suite/DriverDish/releases/latest)
 
 ## Disclaimer
 This is a tracking systems designed for amateur use in Moonbounce, Radioastronomy and DSN. It requieres advanced skills of electronics and software, only recommended to users with previous experience with tracking systems.
