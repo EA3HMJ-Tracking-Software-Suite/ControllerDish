@@ -13,6 +13,7 @@ Different hardware versions are available:
   - 2.0 incorporates in the new ESP32-S3, limit switches and monitors the current and voltage of the motors. It is in the process of testing.
   - 2.1 an entry for stow has been added.
   - 2.2 add temp, hum and presure.
+  - 2.3 add ethernet connection.
 - Version 3.x
   - 3.0 is designed to handle VFD drives for motor control. They incorporate limit switches.
   - 3.1 an entry for stow has been added
@@ -22,7 +23,9 @@ Different hardware versions are available:
 
 ![image](https://github.com/EA3HMJ-Tracking-Software-Suit/ControllerDish/assets/2368602/962cf09a-86fe-4725-a146-1549264fb762)
 
-![image](https://github.com/EA3HMJ-Tracking-Software-Suit/ControllerDish/assets/2368602/2dddb04a-a4b3-40a8-a64d-33e5fc928681)
+
+
+
 
 ## Documentation
 For details, please read the documents for all versions.
