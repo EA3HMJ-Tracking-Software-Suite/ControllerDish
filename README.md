@@ -23,6 +23,9 @@ Different hardware versions are available:
 
 ![image](https://github.com/EA3HMJ-Tracking-Software-Suit/ControllerDish/assets/2368602/962cf09a-86fe-4725-a146-1549264fb762)
 
+![controlerdish_v2 3_1](https://github.com/user-attachments/assets/f35a5386-4788-405e-bfa7-790e632ebb94)
+
+
 ## Documentation
 For details, please read the documents for all versions.
 
@@ -35,6 +38,8 @@ For details, please read the documents for all versions.
 : [Dish Controller v2.2 ESP.pdf](doc/Dish%20Controller%20V2.2%20ESP.pdf)
 
 : [Dish Controller v2.2 Conexiones ESP.pdf](doc/Conexiones%20hardware%202.2%20V1.0%20ESP.pdf).
+
+: [Dish Controller v2.3 ESP.pdf](doc/Dish%20Controller%20V2.3%20ESP.pdf)
 
 : [Dish Controller v3.0 ENG.pdf](doc/Dish%20Controller%20Hardware%20V3%20V1%20ESP.pdf)
 
