@@ -23,10 +23,6 @@ Different hardware versions are available:
 
 ![image](https://github.com/EA3HMJ-Tracking-Software-Suit/ControllerDish/assets/2368602/962cf09a-86fe-4725-a146-1549264fb762)
 
-
-
-
-
 ## Documentation
 For details, please read the documents for all versions.
 
