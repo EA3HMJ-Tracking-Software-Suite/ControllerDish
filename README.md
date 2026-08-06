@@ -66,12 +66,12 @@ The 2.x family is the current ESP32-S3-based DC-motor controller platform. Depen
 > [!WARNING]
 > Hardware 1.x and 2.x use different firmware builds. The firmware packages are **not interchangeable**. Always select the package that matches the ControllerDish hardware family and its ESP32 module.
 
-The latest release provides two separate firmware packages:
+Every release provides two separate firmware packages. The `vX.Y` part of the filename represents the release version, so always download both the hardware-specific package and version from the latest release:
 
 | Firmware package | ControllerDish hardware | Required ESP32 module |
 | --- | --- | --- |
-| `ControllerDishModBusTCP_Hv1_Update_v4.1.zip` | Hardware **1.x** | **ESP32-DEVKITC-32D** |
-| `ControllerDishModBusTCP_Hv2_Update_v4.1.zip` | Hardware **2.x** | **ESP32-S3 DevKitC with ESP32-S3-N16R8** |
+| `ControllerDishModBusTCP_Hv1_Update_vX.Y.zip` | Hardware **1.x** | **ESP32-DEVKITC-32D** |
+| `ControllerDishModBusTCP_Hv2_Update_vX.Y.zip` | Hardware **2.x** | **ESP32-S3 DevKitC with ESP32-S3-N16R8** |
 
 Download the appropriate package from the [latest ControllerDish release](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/releases/latest).
 
