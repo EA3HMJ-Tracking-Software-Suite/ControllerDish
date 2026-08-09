@@ -4,6 +4,11 @@ ControllerDish is the embedded hardware and firmware responsible for moving and 
 
 ![ControllerDish](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/assets/2368602/59209ca7-eb7c-49db-aca0-ce0e430feea9)
 
+## AI technical support / Soporte tecnico con IA
+
+> [!TIP]
+> [Ask about ControllerDish ->](https://ea3hmj-support-assistant.qlfecv.chatgpt.site/?product=ControllerDish) / [Pregunta sobre ControllerDish ->](https://ea3hmj-support-assistant.qlfecv.chatgpt.site/?product=ControllerDish)
+
 ## Control features
 
 - Independent closed-loop control of the azimuth and elevation axes.
