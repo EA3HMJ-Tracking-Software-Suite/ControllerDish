@@ -9,6 +9,14 @@ ControllerDish is the embedded hardware and firmware responsible for moving and 
 > [!TIP]
 > [Ask about ControllerDish ->](https://ea3hmj-support-assistant.qlfecv.chatgpt.site/?product=ControllerDish) / [Pregunta sobre ControllerDish ->](https://ea3hmj-support-assistant.qlfecv.chatgpt.site/?product=ControllerDish)
 
+## Issues and contributions
+
+Because of the complexity of the project and its wide range of possible controllers, motors, sensors, communications, and mechanical configurations, GitHub Issues and Pull Requests are used to manage ControllerDish development more effectively.
+
+- Use [Issues](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/issues) to report one bug or request one feature at a time. Include firmware, hardware and Windows versions, wiring or communication details, reproduction steps, logs, and screenshots when available.
+- Use [Pull Requests](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/pulls) for focused firmware, hardware-documentation, or general documentation changes. Explain the reason for the change, link the related Issue, and describe how it was tested.
+- Read the complete [contribution guide](CONTRIBUTING.md) before submitting a report or change.
+
 ## Control features
 
 - Independent closed-loop control of the azimuth and elevation axes.
