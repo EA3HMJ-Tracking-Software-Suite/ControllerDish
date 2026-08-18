@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **Report a problem / Informar de un problema**
+>
+> Use the **[EA3HMJ Tracking Software Suite Bug Report Form](https://docs.google.com/forms/d/e/1FAIpQLSeziFVQvGoITdWjqzEJbjLdb-zfMSYb1OGPp3MW6a8Ecp-KSQ/viewform)** for DriverDish or ControllerDish. No GitHub account is required. / Usa el formulario para comunicar problemas de DriverDish o ControllerDish. No es necesaria una cuenta de GitHub.
+
 # ControllerDish
 
 ControllerDish is the embedded hardware and firmware responsible for moving and monitoring a two-axis antenna system. It controls the azimuth and elevation motors, reads the corresponding position sensors, applies movement and safety limits, and communicates with [DriverDish](https://github.com/EA3HMJ-Tracking-Software-Suite/DriverDish).
