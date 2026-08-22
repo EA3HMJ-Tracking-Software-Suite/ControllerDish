@@ -1,7 +1,10 @@
 > [!IMPORTANT]
-> **Report a problem / Informar de un problema**
+> **Bug reports and proposals / Errores y propuestas**
 >
-> Use the **[EA3HMJ Tracking Software Suite Bug Report Form](https://docs.google.com/forms/d/e/1FAIpQLSeziFVQvGoITdWjqzEJbjLdb-zfMSYb1OGPp3MW6a8Ecp-KSQ/viewform)** for DriverDish or ControllerDish. No GitHub account is required. / Usa el formulario para comunicar problemas de DriverDish o ControllerDish. No es necesaria una cuenta de GitHub.
+> - **Report a problem / Informar de un problema:** use the **[Bug Report Form](https://docs.google.com/forms/d/e/1FAIpQLSeziFVQvGoITdWjqzEJbjLdb-zfMSYb1OGPp3MW6a8Ecp-KSQ/viewform)**.
+> - **Suggest an improvement or propose a new idea / Sugerir una mejora o proponer una idea:** use the **[Ideas and Improvements Form](https://docs.google.com/forms/d/e/1FAIpQLSeNmvvk4FHJZaDxr2Vs2hsYB6KJVRqpH_RCluL7Kdtbl0Fcug/viewform)**.
+>
+> No GitHub account is required. Proposals are reviewed before being published in [GitHub Discussions](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/discussions). / No es necesaria una cuenta de GitHub. Las propuestas se revisan antes de publicarse en GitHub Discussions.
 
 # ControllerDish
 
@@ -18,7 +21,8 @@ ControllerDish is the embedded hardware and firmware responsible for moving and 
 
 Because of the complexity of the project and its wide range of possible controllers, motors, sensors, communications, and mechanical configurations, GitHub Issues and Pull Requests are used to manage ControllerDish development more effectively.
 
-- Use [Issues](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/issues) to report one bug or request one feature at a time. Include firmware, hardware and Windows versions, wiring or communication details, reproduction steps, logs, and screenshots when available.
+- Use the [Bug Report Form](https://docs.google.com/forms/d/e/1FAIpQLSeziFVQvGoITdWjqzEJbjLdb-zfMSYb1OGPp3MW6a8Ecp-KSQ/viewform) to report one bug at a time. Include firmware, hardware and Windows versions, wiring or communication details, reproduction steps, logs, and screenshots when available. Reports are reviewed before an Issue is created.
+- Use the [Ideas and Improvements Form](https://docs.google.com/forms/d/e/1FAIpQLSeNmvvk4FHJZaDxr2Vs2hsYB6KJVRqpH_RCluL7Kdtbl0Fcug/viewform) for feature suggestions and new ideas. Proposals are reviewed before being published in [Discussions](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/discussions).
 - Use [Pull Requests](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/pulls) for focused firmware, hardware-documentation, or general documentation changes. Explain the reason for the change, link the related Issue, and describe how it was tested.
 - Read the complete [contribution guide](CONTRIBUTING.md) before submitting a report or change.
 
