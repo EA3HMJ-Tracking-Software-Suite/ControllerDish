@@ -97,6 +97,43 @@ Every release provides two separate firmware packages. The `vX.Y` part of the fi
 
 Download the appropriate package from the [latest ControllerDish release](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/releases/latest).
 
+## Configurable Modbus encoders - firmware 5.x and later
+
+ControllerDish firmware **5.x and later** is not limited to the predefined encoder models. It can use any compatible Modbus RTU encoder by defining a CUSTOM encoder profile with **ControllerDishTool**.
+
+ControllerDishTool connects through Modbus RTU or Modbus TCP and writes the encoder parameters used by the firmware for each axis:
+
+- Modbus register containing the raw position.
+- Raw data format: signed or unsigned 16-bit or 32-bit integer.
+- Encoder resolution and single-turn/multiturn relationship for azimuth.
+- Subtraction, multiplication, and division factors for elevation.
+- Controller offset for final mechanical-zero alignment.
+
+For a CUSTOM elevation encoder, the firmware calculates the position using:
+
+```text
+position = (raw - EncoderSubtract) * EncoderMul / EncoderDiv
+```
+
+The azimuth CUSTOM profile uses the configured bit resolution and turn/multiturn parameters, followed by the controller offset. This makes it possible to adapt the position calculation to the register layout and scale used by the installed Modbus encoder.
+
+> [!IMPORTANT]
+> Configure the encoder's own Modbus address, baud rate, and other device-specific settings separately. After changing a profile, read the position again and verify it against a known mechanical reference before enabling antenna movement.
+
+## ControllerDishTool
+
+[Download ControllerDishTool](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/releases/latest/download/ControllerDishTool.zip)
+
+ControllerDishTool is the maintenance and configuration utility for ControllerDish firmware 5.x and later. It provides:
+
+- Firmware updates over Ethernet, RS-485, or the ESP32 USB service port.
+- Hardware-package validation to prevent loading HV1 firmware on HV2 hardware or vice versa.
+- Encoder type and CUSTOM position-calculation configuration.
+- Position and raw encoder-value monitoring without commanding movement.
+- Optional board tests for commissioning and service diagnostics.
+
+The ZIP includes the application, required libraries, `Sensors.txt`, `esptool.exe`, and the complete user manual.
+
 ## Discontinued hardware 3.x
 
 Hardware 3.x is discontinued and should only be considered legacy hardware. It has been replaced by the more flexible hardware 2.x platform combined with the dedicated ControllerDish VFD interface module for AC motor installations.
@@ -122,6 +159,7 @@ Hardware 3.x is discontinued and should only be considered legacy hardware. It h
 
 - [All releases](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/releases)
 - [Latest release](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/releases/latest)
+- [ControllerDishTool](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/releases/latest/download/ControllerDishTool.zip)
 
 ## Disclaimer
 
