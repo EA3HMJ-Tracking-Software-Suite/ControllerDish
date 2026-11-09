@@ -120,6 +120,9 @@ The azimuth CUSTOM profile uses the configured bit resolution and turn/multiturn
 > [!IMPORTANT]
 > Configure the encoder's own Modbus address, baud rate, and other device-specific settings separately. After changing a profile, read the position again and verify it against a known mechanical reference before enabling antenna movement.
 
+> [!IMPORTANT]
+> When using a CUSTOM encoder, copy the `Sensors.txt` file included in `ControllerDishTool.zip` into the **DriverDish.App program directory**. DriverDish uses this file to identify the configured sensor type; without the updated file, DriverDish will not recognize the new encoder.
+
 ## ControllerDishTool
 
 [Download ControllerDishTool](https://github.com/EA3HMJ-Tracking-Software-Suite/ControllerDish/releases/latest/download/ControllerDishTool.zip)
